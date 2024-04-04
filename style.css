@@ -98,29 +98,29 @@ body {
     color: orange;
     }
     .lojas-estado-icone{
-        width: 30px;
-        padding: 5px 0 10px 0;
+    width: 30px;
+   padding: 5px 0 10px 0;
     }
     .lojas-estado-icone:hover{
-        width: 35px;
-        padding: 5px 0;
+    width: 35px;
+   padding: 5px 0;
     }
 
     .rodape{
-        background-color: black;
-        text-align: center;
-        padding: 50px;
-        border-top: 2px solid #ffff00b2;
+   background-color: black;
+   text-align: center;
+   padding: 50px;
+   border-top: 2px solid #ffff00b2;
     }
 
     .rodape-titulo{
-        font-size: 25px;
-        font-weight: bold;
-        color: #ffff00b2;
+    font-size: 25px;
+   font-weight: bold;
+   color: #ffff00b2;
     }
 
     .rodape-imagem{
-        width: 100px;
-        filter: invert();
+    width: 100px;
+    filter: invert();
     }
 }
