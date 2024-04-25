@@ -103,6 +103,7 @@ body {
     .lojas-estado-icone{
     width: 20%;
    padding: 25%  25% ;
+   height: 30%;
     }
     .lojas-estado-icone:hover{
     width: 35px;
